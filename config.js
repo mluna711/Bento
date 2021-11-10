@@ -13,7 +13,7 @@ const CONFIG = {
   // General
   name: '****',
   imageBackground: false,
-  openInNewTab: true,
+  openInNewTab: false,
   twelveHourFormat: false,
 
   // Greetings
@@ -81,45 +81,45 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
+  firstListIcon: 'anchor',
   secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Asana',
+        link: 'https://app.asana.com/0/',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'NextCloud',
+        link: 'https://lost-navi.xyz',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Ruby on Rails',
+        link: 'https://rubyonrails.org/',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Google',
+        link: 'https://google.com',
       },
     ],
     secondList: [
       {
+        name: 'Whatsapp',
+        link: 'https://web.whatsapp.com/',
+      },
+      {
+        name: 'CodeWars',
+        link: 'https://www.codewars.com/dashboard',
+      },
+      {
+        name: 'Instagram',
+        link: 'https://instagram.com',
+      },
+      {
         name: 'Linkedin',
         link: 'https://linkedin.com/',
-      },
-      {
-        name: 'Figma',
-        link: 'https://figma.com/',
-      },
-      {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
-      },
-      {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
       },
     ],
   },
