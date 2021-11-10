@@ -53,19 +53,19 @@ const CONFIG = {
     {
       id: '3',
       name: 'Discord',
-      icon: 'discord',
+      icon: 'message-circle',
       link: 'https://discord.com/app',
     },
     {
       id: '4',
       name: 'Spotify',
-      icon: 'spotify',
+      icon: 'play',
       link: 'https://open.spotify.com/',
     },
     {
       id: '5',
       name: 'Reddit',
-      icon: 'bookmark',
+      icon: 'trending-up',
       link: 'https://reddit.com',
     },
     {
